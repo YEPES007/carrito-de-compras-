@@ -1,0 +1,25 @@
+Historia de usuario - Agregar productos al carrito
+
+Como usuario,
+Quiero poder agregar productos a mi carrito de compras,
+Para poder seleccionar varios artículos antes de proceder al pago.
+Historia de usuario - Verificar artículos en el carrito
+
+Como usuario,
+Quiero ver todos los productos que he agregado al carrito,
+Para asegurarme de que he seleccionado los artículos correctos antes de proceder con la compra.
+Historia de usuario - Eliminar productos del carrito
+
+Como usuario,
+Quiero poder eliminar productos de mi carrito de compras,
+Para modificar mi selección en caso de haber agregado un artículo incorrecto o cambiado de opinión.
+Historia de usuario - Actualizar cantidad de productos en el carrito
+
+Como usuario,
+Quiero poder cambiar la cantidad de un producto en mi carrito,
+Para ajustar el número de artículos que quiero comprar sin tener que agregar o eliminar productos manualmente.
+Historia de usuario - Verificar total del carrito y realizar el pago
+
+Como usuario,
+Quiero ver el total del carrito antes de realizar el pago,
+Para asegurarme de que todos los impuestos y costos de envío están correctamente aplicados antes de proceder con la compra.
